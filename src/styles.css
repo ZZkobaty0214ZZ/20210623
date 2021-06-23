@@ -7,8 +7,10 @@ body {
   border-color: purple;
   border-spacing: 40px;
   border-style: dashed;
-  height: 50px;
+  height: 40px;
   width: 50px;
   font-size: 24px;
   position: absolute;
 }
+
+/*heightを変えました*/
